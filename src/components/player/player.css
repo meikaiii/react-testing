@@ -1,0 +1,11 @@
+#Player {
+    background-color: rgb(43, 241, 241);
+    height: 2em;
+    width: 2em;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    transition: all .1s;
+}
